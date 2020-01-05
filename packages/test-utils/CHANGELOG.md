@@ -1,5 +1,13 @@
 # @keystonejs/test-utils
 
+## 5.0.3
+
+### Patch Changes
+
+- [`3d7222cd`](https://github.com/keystonejs/keystone/commit/3d7222cd589ce8accbf3a9de141976c38e2c7e23) [#2167](https://github.com/keystonejs/keystone/pull/2167) - Unit tests on linux mint machines were fixed.
+- Updated dependencies [[`05d07adf`](https://github.com/keystonejs/keystone/commit/05d07adf84059ff565cd2394f68d71d92e657485), [`78193f9c`](https://github.com/keystonejs/keystone/commit/78193f9c9d93655fb0d4b8dc494fbe4c622a4d64)]:
+  - @keystonejs/keystone@5.4.1
+
 ## 5.0.2
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @keystonejs/mongo-join-builder
 
+## 5.0.2
+
+### Patch Changes
+
+- [`3d7222cd`](https://github.com/keystonejs/keystone/commit/3d7222cd589ce8accbf3a9de141976c38e2c7e23) [#2167](https://github.com/keystonejs/keystone/pull/2167) - Unit tests on linux mint machines were fixed.
+- Updated dependencies [[`38f88b62`](https://github.com/keystonejs/keystone/commit/38f88b62d9592d91b56528d4d9c40e9399440c4a)]:
+  - @keystonejs/utils@5.1.3
+
 ## 5.0.1
 
 ### Patch Changes
